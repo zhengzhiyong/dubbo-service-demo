@@ -4,7 +4,8 @@ import com.zy.dubbo.service.HelloService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Created by zheng on 2019/2/18.
+ * @author zheng
+ * @date 2019/2/18.
  */
 public class Consumer {
     public static void main(String[] args) throws Exception {

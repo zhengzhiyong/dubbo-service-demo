@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by zheng on 2019/2/18.
+ * @author zheng
+ * @date 2019/2/18.
  */
 @Controller
 public class SayHelloController {
